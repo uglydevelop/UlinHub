@@ -5,10 +5,10 @@
 ---
 
 <p align="center">
-    <img src="screenshots/Screenshot_MainMenuEn.png" width="150" title="MainMenuEn">
-    <img src="screenshots/Screenshot_MainMenuRu.png" width="150" title="MainMenuRu">
-    <img src="screenshots/Screenshot_Edit.png" width="150" title="EditMode">
-    <img src="screenshots/Screenshot_MainMenuRu.png" width="150" title="DeliteMode">
+    <img src="screenshots/Screenshot_MainMenuEn.png" width="50" title="MainMenuEn">
+    <img src="screenshots/Screenshot_MainMenuRu.png" width="50" title="MainMenuRu">
+    <img src="screenshots/Screenshot_Edit.png" width="50" title="EditMode">
+    <img src="screenshots/Screenshot_MainMenuRu.png" width="50" title="DeliteMode">
 </p>
 
 
