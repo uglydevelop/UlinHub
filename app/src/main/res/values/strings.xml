@@ -1,0 +1,25 @@
+<resources>
+    <string name="change_language">Ru</string>
+    <string name="app_name">UlinHub</string>
+    <string name="top_bar_title">UlinHub</string>
+    <string name="label_title">Название (например: Исходники тут)</string>
+    <string name="label_url">Ссылка (URL)</string>
+    <string name="btn_save">Сохранить ссылку</string>
+    <string name="section_title">Твои закладки (смахни для удаления):</string>
+    <string name="saved_link">Сохраненная ссылка</string>
+
+    <!-- Диалог удаления -->
+    <string name="dialog_delete_title">Удалить закладку?</string>
+    <string name="dialog_delete_text">Вы уверены, что хотите удалить ссылку \"%1$s\"?</string>
+    <string name="btn_delete">Удалить</string>
+    <string name="btn_cancel">Отмена</string>
+
+    <!-- Диалог редактирования -->
+    <string name="dialog_edit_title">Редактировать закладку</string>
+    <string name="btn_save_changes">Сохранить</string>
+    <string name="label_dialog">Название</string>
+
+    <!-- Уведомления -->
+    <string name="toast_saved">Ссылка сохранена в UlinHub!</string>
+    <string name="toast_invalid_url">Неверная ссылка</string>
+</resources>
