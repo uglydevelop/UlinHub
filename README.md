@@ -8,7 +8,7 @@
     <img src="screenshots/Screenshot_MainMenuEn.png" width="200" title="MainMenuEn">
     <img src="screenshots/Screenshot_MainMenuRu.png" width="200" title="MainMenuRu">
     <img src="screenshots/Screenshot_Edit.png" width="200" title="EditMode">
-    <img src="screenshots/Screenshot_MainMenuRu.png" width="200" title="DeliteMode">
+    <img src="screenshots/Screenshot_Delite.png" width="200" title="DeliteMode">
 </p>
 
 
