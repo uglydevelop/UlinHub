@@ -11,7 +11,6 @@
     <img src="screenshots/Screenshot_Delite.png" width="200" title="DeliteMode">
 </p>
 
-
 ## English
 
 A clean, private, and fast bookmark hub for saving links, built with **Jetpack Compose** and featuring full **Material You** design support.
